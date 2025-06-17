@@ -1,2 +1,2 @@
 # Hopfield Networks
-Computational Neuroscience
+Computational Neuroscience Assignment
